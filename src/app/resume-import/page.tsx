@@ -104,7 +104,7 @@ export default function ImportResume() {
   }
 
   async function handleContinueClick() {
-    const bearerToken = process.env.proxycurl; // Replace with your actual bearer token
+    const bearerToken = "xkFke3aHyXFPacR1zLWA5A"; // Replace with your actual bearer token
 
     try {
       const response = await axios.get(
