@@ -37,7 +37,7 @@ const TextArea: React.FC<{ value: string; onChange: (e: React.ChangeEvent<HTMLTe
   <textarea {...props} />
 );
 
-const OPENAI_API_KEY = process.env.OPENAI;
+const OPENAI_API_KEY = "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";
 const openai = new OpenAI({ apiKey: OPENAI_API_KEY, dangerouslyAllowBrowser: true });
 
 // ResumeData interface definition
