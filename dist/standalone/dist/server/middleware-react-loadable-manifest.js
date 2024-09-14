@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST='{"app/components/Resume/ResumeIFrame.tsx -> @react-pdf/renderer":{"id":6292,"files":[]},"app/components/fonts/NonEnglishFontsCSSLoader.tsx -> components/fonts/FontsZh":{"id":2917,"files":["static/css/c3e0565d8920aed2.css","static/chunks/917.f00fc1de0eaa44fd.js"]}}';
