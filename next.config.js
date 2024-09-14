@@ -6,7 +6,6 @@ const nextConfig = {
   // the canvas package for webpack
   // https://github.com/mozilla/pdf.js/issues/16214
   output: 'standalone',
-  distDir: 'dist', // Added to specify the output directory
   webpack: (config) => {
     // Setting resolve.alias to false tells webpack to ignore a module
     // https://webpack.js.org/configuration/resolve/#resolvealias
